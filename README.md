@@ -46,11 +46,11 @@ Se você utiliza o VS Code, recomendo as seguintes extensões para uma melhor ex
 *   **LÖVE 2D Support:** Permite executar o jogo diretamente com o atalho `Alt + L`.
 
 3. **Executar com Alt+L:**
-   - Se você instalou a extensão LÖVE 2D Support no VS Code:
-    ```bash
-    1. Abra a pasta do projeto em VS Code com o arquivo main.lua aberto, pressione Alt+L
-    2. O jogo será executado automaticamente através do LÖVE 2D
-    ```
+    Se você instalou a extensão LÖVE 2D Support no VS Code:
+```bash
+1. Abra a pasta do projeto em VS Code com o arquivo main.lua aberto, pressione Alt+L
+2. O jogo será executado automaticamente através do LÖVE 2D
+```
 ## 📁 Estrutura do Projeto
 
 ```
